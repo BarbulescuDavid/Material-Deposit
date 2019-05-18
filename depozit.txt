@@ -1,0 +1,15 @@
+100 otel_beton_14mm 3.40 kg 84
+101 otel_beton_20mm 3.50 kg 112
+102 caramida_refractata 2.30 buc 325
+103 caramida_soceram 4.13 buc 187
+104 caramida_eficienta 1.64 buc 50
+105 bca_standard 34.00 buc 250
+106 mortar 5.00 kg 110
+107 liant 3.00 kg 12
+108 ciment 4.00 kg 80
+109 placa_pal 210.00 buc 60
+110 placa_osb 56.88 buc 32
+111 surub_lemn_100mm 2 buc 2
+112 surub_lemn_80mm 2 buc 3
+113 carlig_filet_metalic 3 buc 0
+114 set_indicator_salvare 12.38 buc 0
